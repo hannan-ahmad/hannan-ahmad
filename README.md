@@ -31,4 +31,3 @@ Operating System: [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D
 
 Desktop Environment: 
 KDE Plasma	[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
-
